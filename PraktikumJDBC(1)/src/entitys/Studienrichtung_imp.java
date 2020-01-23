@@ -60,6 +60,11 @@ public class Studienrichtung_imp implements Studienrichtung {
         return istGleich;
     }
     
+    @Override
+    public String toString(){
+        return this.kuerzel +", " + this.name;
+    }
+    
     
     
 }

@@ -20,19 +20,24 @@ import static org.junit.Assert.*;
  */
 public class implementationTest {
     
-    implementation impl;
+    Implementation impl;
     
     
     @Before
     public void setUp() throws SQLException {
+        impl = new Implementation();
 //        impl.startCon("jdbc:derby:C:/Users/Alex/Desktop/DBA JDBC/DBA-Praktikum-JavaDB/dba-praktikum", "", "");
         impl.startCon("jdbc:derby:C:\\Users\\Alex\\Desktop\\DBA JDBC\\DBA-Praktikum-JavaDB\\dba-praktikum", "", "");
+        
         
     }
     
     
+    
     @Test
-    public void testGetAllStudienrichtung(){
+    public void testGetAllStudienrichtung() throws SQLException{
+        
+//    impl.startCon("jdbc:derby:C:\\Users\\Alex\\Desktop\\DBA JDBC\\DBA-Praktikum-JavaDB\\dba-praktikum", "", "");
     
     ArrayList<Studienrichtung> test = new ArrayList<Studienrichtung>();
     test.add(new Studienrichtung_imp("MI", "Medieninformatik"));
@@ -40,7 +45,7 @@ public class implementationTest {
     test.add(new Studienrichtung_imp("PI", "Praktische Informatik"));
     test.add(new Studienrichtung_imp("TI", "Technische Informatik"));
     
-    assertEquals(impl.getAllStudienrichtung(), test);
+    assertEquals(test, impl.getAllStudienrichtung());
     
 }
     
