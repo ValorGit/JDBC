@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu Jan 23 18:19:45 CET 2020:
-Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): Instanz a816c00e-016f-d36a-bd60-000006d51cf0
-für Datenbankverzeichnis C:\Users\Alex\Desktop\DBA JDBC\DBA-Praktikum-JavaDB\dba-praktikum mit Class Loader sun.misc.Launcher$AppClassLoader@7440e464
+Sun Jan 26 20:47:03 CET 2020:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): Instanz a816c00e-016f-e364-ab4b-00000724a618
+fÃ¼r Datenbankverzeichnis C:\Users\Alex\Desktop\DBA JDBC\DBA-Praktikum-JavaDB\dba-praktikum mit Class Loader sun.misc.Launcher$AppClassLoader@1d44bcfa
 Geladen aus file:/D:/Program%20Files%20(x86)/Java/jdk1.8.0_151/db/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_151-b12

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Studium/EPR/NetBeansProjects/sfass/src/entitys/Studienrichtung_imp.java</file>
-            <file>file:/D:/Studium/EPR/NetBeansProjects/sfass/src/implementation.java</file>
-            <file>file:/D:/Studium/EPR/NetBeansProjects/sfass/test/implementationTest.java</file>
-            <file>file:/D:/Studium/EPR/NetBeansProjects/sfass/src/GUI.java</file>
+            <file>file:/D:/Studium/EPR/NetBeansProjects/PraktikumJDBC(1)/src/entities/StudienrichtungWhs.java</file>
+            <file>file:/D:/Studium/EPR/NetBeansProjects/PraktikumJDBC(1)/src/Implementation.java</file>
+            <file>file:/D:/Studium/EPR/NetBeansProjects/PraktikumJDBC(1)/src/GUI.java</file>
+            <file>file:/D:/Studium/EPR/NetBeansProjects/PraktikumJDBC(1)/src/entities/ModulWhs.java</file>
+            <file>file:/D:/Studium/EPR/NetBeansProjects/PraktikumJDBC(1)/src/entities/StudentWhs.java</file>
+            <file>file:/D:/Studium/EPR/NetBeansProjects/PraktikumJDBC(1)/test/implementationTest.java</file>
         </group>
     </open-files>
 </project-private>
