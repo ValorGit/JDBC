@@ -8,6 +8,8 @@ package entitys;
 import edu.whs.dba.entity.Student;
 import edu.whs.dba.entity.Studienrichtung;
 
+/wow
+
 /**
  *
  * @author Alex
